@@ -326,3 +326,10 @@ button:hover {
     background: #3a8a98;
     transform: translateY(-1px);
 }
+.password-requirement {
+    color: #666;
+    font-size: 0.8em;
+    margin-top: 4px;
+    display: block;
+}
+
